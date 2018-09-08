@@ -1,0 +1,49 @@
+[
+  {
+    "Name": "MACDONALD/DOWNTOWN ",
+    "OperatingCompany": "CMBC",
+    "Patterns": [
+      {
+        "Destination": "BURRARD STN",
+        "Direction": "EAST",
+        "PatternNo": "",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/002-EB3.kmz"
+        }
+      },
+      {
+        "Destination": "DOWNTOWN",
+        "Direction": "EAST",
+        "PatternNo": "EB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/002-EB1.kmz"
+        }
+      },
+      {
+        "Destination": "DOWNTOWN",
+        "Direction": "EAST",
+        "PatternNo": "EB2",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/002-EB2.kmz"
+        }
+      },
+      {
+        "Destination": "MACDONALD",
+        "Direction": "WEST",
+        "PatternNo": "WB1",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/002-WB1.kmz"
+        }
+      },
+      {
+        "Destination": "MACDONALD - 16 AVE",
+        "Direction": "WEST",
+        "PatternNo": "WB2",
+        "RouteMap": {
+          "Href": "http://nb.translink.ca/geodata/trip/002-WB2.kmz"
+        }
+      }
+    ],
+    "RouteNo": "002"
+  }
+]
